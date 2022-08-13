@@ -1,0 +1,9 @@
+body {
+    background-image: url("img/marijuana-34178_1280.png");
+  }
+
+tfoot, tbody, thead {
+    color:brown
+}
+
+table {width: 90%;}
